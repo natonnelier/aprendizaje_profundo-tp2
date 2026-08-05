@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+.ipynb_checkpoints/
+Deep_Learning_TP2_Cohorte_25_3B2026.ipynb
